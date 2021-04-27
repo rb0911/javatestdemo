@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@git@github.com:rb0911/javatestdemo.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
